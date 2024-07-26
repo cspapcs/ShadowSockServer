@@ -44,3 +44,7 @@ chmod +x bbr.sh
 
 # 下载ShadowSocksR客户端
 https://github.com/ShadowsocksR-Live/ssrWin/releases
+
+# 参考
+https://github.com/yukaiji/buildVpn?tab=readme-ov-file
+
